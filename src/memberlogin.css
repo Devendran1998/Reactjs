@@ -1,0 +1,45 @@
+.cont
+{
+    background-color: rgb(218, 24, 218);
+    height: 100vh;
+    width: 100%;
+}
+.cont1
+{
+    background-color: white;
+    height: 90%;
+    width: 90%;
+    border-radius: 15px;
+    padding: 50px;
+    
+}
+.but
+{
+width: 80%;
+border-radius: 15px;
+background-color: green;
+color: white;
+padding: 10px;
+}
+.one
+{
+    width: 80%;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+.two
+{
+    width: 80%;
+    border-radius: 15px;
+    padding: 10px;
+}
+span
+{
+    color: green;
+}
+.f1
+{
+    margin-right: auto;
+    margin-left: auto;
+}

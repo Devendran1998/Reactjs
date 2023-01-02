@@ -1,0 +1,12 @@
+.first{
+    background-color: aqua;
+    padding: 20px;
+    height: 100%;
+}
+.prod{
+    border-radius:100%;
+
+}
+.btn{
+    border-bottom:10%;
+}

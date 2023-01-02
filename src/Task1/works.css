@@ -1,0 +1,16 @@
+.bg-img
+{
+    background-color: rgb(145, 216, 38);
+    height: 100%;
+    width: 100%;
+}
+.work-para{
+    font-size:1.5em;
+    color: white;
+}
+.work-head{
+    color: white;
+}
+.size11{
+    width: 15rem;
+}
